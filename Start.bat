@@ -15,5 +15,5 @@ if %errorlevel% neq 0 (
     exit
 )
 
-python age_check.py
+python Age_Checker.py
 pause

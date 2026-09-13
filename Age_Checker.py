@@ -31,4 +31,5 @@ elif age < 18:
     print("Underage")
 else:
     print("Adult")
-    
+
+input("\nDruecke Enter zum Beenden...")
